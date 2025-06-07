@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "126e6967fcd018b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "3af4693cb1551f9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bd8568b75491fd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "laravel-livewire/Make Custom Pagination with livewire.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Make Custom Pagination with livewire"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "77f61c4263fd2ea3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8deda261762b9024",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f4d0e32fcb76471",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "318e3c85af53d057",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bb513372c0e92c7f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "27e8d90f8b3a0571",
+    "type": "split",
+    "children": [
+      {
+        "id": "44d1f4dc606df0dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78103a0f07cbb97b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "laravel-livewire/Make Custom Pagination with livewire.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Make Custom Pagination with livewire"
+            }
+          },
+          {
+            "id": "689c9076cf850553",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "laravel-livewire/Make Custom Pagination with livewire.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Make Custom Pagination with livewire"
+            }
+          },
+          {
+            "id": "d45ed47550f5302a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d00bea0f1a670bda",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "laravel-livewire/Make Custom Pagination with livewire.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Make Custom Pagination with livewire"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0bd8568b75491fd9",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "laravel-livewire/Make Custom Pagination with livewire.md",
+    "laravel-livewire"
+  ]
+}
