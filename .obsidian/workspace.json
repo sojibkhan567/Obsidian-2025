@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "laravel-livewire/Make Custom Pagination with livewire.md",
+                "file": "laravel-Tips-2025/Check current password & change password.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Make Custom Pagination with livewire"
+              "title": "Check current password & change password"
             }
           }
         ]
@@ -170,8 +170,12 @@
   },
   "active": "0bd8568b75491fd9",
   "lastOpenFiles": [
+    "laravel-Tips-2025/Configure PHPMailer and send email in laravel.md",
+    "laravel-Tips-2025/Check current password & change password.md",
     "Untitled.md",
     "laravel-livewire/Make Custom Pagination with livewire.md",
+    "laravel-Tips-2025",
+    "laravel-livewire/Untitled.md",
     "laravel-livewire"
   ]
 }
